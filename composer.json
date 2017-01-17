@@ -1,0 +1,24 @@
+{
+    "name": "billynate/gitlib",
+    "type": "library",
+    "description": "",
+    "homepage": "https://github.com/BillyNate/GitLib",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "Git"
+    ],
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "BillyNate",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BillyNate\\GitLib\\": "BillyNate/GitLib"
+        }
+    }
+}
